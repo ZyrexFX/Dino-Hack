@@ -5,7 +5,7 @@ Simpel code buat dino game. Silahkan show off score nya ke temen...
 
 ### How to haxx
 
-- Buka gamenya dulu, bisa offline atau biar ga ribet langsung ke [sini](chrome://dino/)
+- Buka gamenya dulu, bisa offline atau biar ga ribet langsung ke [sini](chrome://dino)
 - Tekan ``F12`` di keyboard, kalo gada keyboard bisa klik kanan mouse lalu ``inspect``
 - Klik tab ``console``.
 
