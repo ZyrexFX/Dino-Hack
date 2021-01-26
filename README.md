@@ -17,7 +17,7 @@ Ketik command di bawah dalam tab console untuk membuat dino tembus terhadap obst
 Runner.prototype.gameOver = function(){}
 ```
 
-#### Cheat speed
+### Cheat speed
 
 Atur kecepatan lari dino.
 
