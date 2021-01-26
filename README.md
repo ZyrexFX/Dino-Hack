@@ -1,6 +1,7 @@
 ## Dino Google Game Hack
 
-![Simpel code buat dino game. Silahkan show off score nya ke temen...](https://cdn.discordapp.com/attachments/638665637111267332/803569019554365440/unknown.png)
+Simpel code buat dino game. Silahkan show off score nya ke temen...
+![Dino Game](https://cdn.discordapp.com/attachments/638665637111267332/803569019554365440/unknown.png)
 
 ### How to haxx
 
